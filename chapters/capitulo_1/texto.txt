@@ -1,0 +1,3 @@
+Capítulo 1: Introducción a Python
+
+Python es un lenguaje de programación interpretado, de alto nivel y con una sintaxis clara y legible. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Desde entonces, ha ganado una enorme popularidad debido a su simplicidad, su comunidad activa y su versatilidad.
